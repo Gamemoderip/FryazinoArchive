@@ -1,2 +1,0 @@
-# FryazinoArchive
-Архивность птички
